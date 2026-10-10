@@ -1,0 +1,21 @@
+{
+  "token": "PASTE_BOT_TOKEN_FROM_BOTFATHER",
+  "xlsx_path": "/storage/emulated/0/Attendance/daily_attendance.xlsx",
+  "backup_dir": "/storage/emulated/0/Attendance/backups",
+  "block_chats": {
+    "-1001111111111": "A",
+    "-1002222222222": "B",
+    "-1003333333333": "C"
+  },
+  "admins": [
+    123456789
+  ],
+  "ignore_names": [
+    "Lalta Prasad"
+  ],
+  "daily_file_time": "23:55",
+  "main_chat": null,
+  "combined_post_time": "23:30",
+  "send_combined_to_admins": true,
+  "data_dir": "/data/data/com.termux/files/home/attendance"
+}

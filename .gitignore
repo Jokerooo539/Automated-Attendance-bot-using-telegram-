@@ -1,0 +1,10 @@
+# secrets and private data: never commit these
+config.json
+*.xlsx
+backups/
+offset.txt
+bot.log
+__pycache__/
+state.json
+bot.lock
+service_account*.json
